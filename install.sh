@@ -7,7 +7,7 @@ cd wyoming-satellite
 script/setup
 cd ..
 
-cd wyoming-porcupine1
+cd wyoming-openwakeword
 script/setup
 cd ..
 

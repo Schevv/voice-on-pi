@@ -1,6 +1,6 @@
 [submodule "wyoming-satellite"]
 	path = wyoming-satellite
 	url = https://github.com/Schevv/wyoming-satellite.git
-[submodule "wyoming-porcupine1"]
-	path = wyoming-porcupine1
-	url = https://github.com/rhasspy/wyoming-porcupine1.git
+[submodule "wyoming-openwakeword"]
+	path = wyoming-openwakeword
+	url = https://github.com/rhasspy/wyoming-openwakeword.git
